@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">京东</string>
+    <string name="pageBehavior" translatable="false">com.example.administrator.jingdong.myview.PageBehavior</string>
+</resources>
